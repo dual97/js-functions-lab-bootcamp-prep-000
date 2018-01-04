@@ -1,5 +1,6 @@
 var holiday = 'Independence Day'
 var name = 'you'
+var days = 11
 
 function happyHolidays(string){
   return 'Happy holidays!'
